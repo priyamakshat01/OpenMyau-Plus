@@ -81,6 +81,7 @@ public class Myau {
         moduleManager.modules.put(Blink.class, new Blink());
         moduleManager.modules.put(BackTrack.class, new BackTrack());
         moduleManager.modules.put(FPScounter.class, new FPScounter());
+        moduleManager.modules.put(PacketResearch.class, new PacketResearch());
         moduleManager.modules.put(Chams.class, new Chams());
         moduleManager.modules.put(WaterMark.class, new WaterMark());
         moduleManager.modules.put(ChestESP.class, new ChestESP());
